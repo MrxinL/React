@@ -7,7 +7,6 @@ const Get = (parmes: string) => {
     }).catch(e => {
         rej(e)
     })
-
     })
 }
 
